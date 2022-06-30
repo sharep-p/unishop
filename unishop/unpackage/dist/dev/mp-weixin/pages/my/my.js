@@ -21,6 +21,7 @@ createPage(_my.default);
   !*** D:/uniapp/unishop/unishop/pages/my/my.vue ***!
   \*************************************************/
 /*! no static exports found */
+<<<<<<< HEAD
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -141,6 +142,11 @@ var _default =
 
 
   } };exports.default = _default;
+=======
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/@dcloudio/webpack-uni-mp-loader/lib/style.js):\nError: ENOENT: no such file or directory, open 'D:\\uniapp\\unishop\\unishop\\pages\\my\\my.vue'");
+>>>>>>> master
 
 /***/ })
 

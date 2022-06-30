@@ -13,6 +13,7 @@
     "backgroundColor": "#FFFFFF",
     "navigationStyle": "default"
   },
+<<<<<<< HEAD
   "tabBar": {
     "selectedColor": "#C00000",
     "list": [
@@ -42,5 +43,7 @@
       }
     ]
   },
+=======
+>>>>>>> master
   "usingComponents": {}
 }
